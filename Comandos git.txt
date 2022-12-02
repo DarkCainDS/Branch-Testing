@@ -15,6 +15,8 @@ git show archivo.js
 git reset "commit number" --soft=stagged remains || --hard = start from old version
 git diff = diferencia entre git stagged y repo local
 git checkout "Commit NUmber" || branch ,  "file to checkout"
+git commit -am "huh"
+
 
 pwd = see location of file in path "C:\Users\diego\Documents\Programacion\Git"
 mkdir "nameProject" create a binder
