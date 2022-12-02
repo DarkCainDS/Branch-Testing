@@ -1,0 +1,29 @@
+git init
+git add ."para todo" , git add Home.js "specified file"
+git commit -m "version 1"
+git status
+git log Home.js "specified file"
+git log --stat //specific changes
+git push
+git rm --cached archivo.js = eliminar archivo del add
+git config
+git config --global
+git config --list
+git config --list --show-origin
+ls -al = see files
+git show archivo.js
+git reset "commit number" --soft=stagged remains || --hard = start from old version
+git diff = diferencia entre git stagged y repo local
+git checkout "Commit NUmber" || branch ,  "file to checkout"
+
+pwd = see location of file in path "C:\Users\diego\Documents\Programacion\Git"
+mkdir "nameProject" create a binder
+touch "Empty.txt" use to create a plain text file
+ls = see binders
+cat = use to see the text in a file
+history = see all terminal comands use
+!15 = repeat command use in a specified line
+rm = use to delete files
+
+
+salir del commit sin mensaje ni -m = esc + shift + z + z
